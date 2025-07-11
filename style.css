@@ -306,7 +306,7 @@ body.dark-theme .theme-toggle-indicator {
     color: var(--color-text-primary);
 
     /* Background Image Styles */
-    background-image: url('sidebarbg2.jpg'); /* <-- REPLACE THIS PATH! */
+    background-image: url('sidebarbg2.avif'); /* <-- REPLACE THIS PATH! */
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
